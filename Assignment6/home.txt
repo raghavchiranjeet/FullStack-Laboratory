@@ -1,0 +1,15 @@
+<html>
+<body>
+    <style>
+        #dp{
+            height:150px;
+            width: 150px;
+            border-radius:100%;
+            border: 2px solid grey;
+        }
+    </style>
+    <div id="box">
+    <img src="car.jpg" id="dp"/>
+    </div>
+</body>
+</html>
